@@ -43,7 +43,9 @@ grupo_etario
 2,adultos,1,0.15,0.08
 3,ancianos,1,0.20,0.15
 
-registro_historico
+registros_historicos
+
+-id
 
 - sociedad_id
 - grupo_etario_id

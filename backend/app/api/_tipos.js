@@ -1,5 +1,5 @@
 import { Router } from "express";
-import { getAllTipos } from "../db/tipos.js";
+import { getAllTipos } from "../db/_tipos.js";
 
 export const endpointsTipos = Router();
 
